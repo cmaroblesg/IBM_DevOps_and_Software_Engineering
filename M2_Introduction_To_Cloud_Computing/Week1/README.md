@@ -1,4 +1,4 @@
-# Introduction to Cloud Computing
+# Overview of Cloud Computing
 ## Introduction
 This week you will learn about the definition and essential characteristics of cloud computing. You will learn about the evolution of cloud computing, the emerging technologies supported by cloud, and the business case for cloud computing.In this module, you will learn about the definition and essential characteristics of cloud computing. You will also learn about the evolution of cloud computing, the business case for cloud adoption, and how some of the emerging technologies are being supported by cloud computing.
 
@@ -25,4 +25,12 @@ This week you will learn about the definition and essential characteristics of c
   * American Airlines adopting cloud technologies to deliver customer value rapidly across its enterprise
   * UBank leveraging cloud platform services to give more control to their developers thereby removing barriers to innovation
   * Bitly leveraging the scalability offered by cloud infrastructure for low-latency delivery to its geographically disbursed enterprise customers
-  * ActivTrades leveraging the infrastructure, storage, network, and security offerings on the cloud to accelerate execution and delivery of new functions in their online trading systems to their customers 
+  * ActivTrades leveraging the infrastructure, storage, network, and security offerings on the cloud to accelerate execution and delivery of new functions in their online trading systems to their customers
+
+### Lesson Summary: Emerging Technologies Accelerated by Cloud
+* Emerging technologies, powered by the cloud, are disrupting existing business models and creating unprecedented opportunities for businesses to grow, innovate, and create value for their customers.
+* Some case studies that demonstrate how the use of emerging technologies on the cloud is creating value for millions around the world:
+  * The use of the Internet of Things on the cloud to combat poaching of endangered rhinos in South Africa
+  * Artificial Intelligence on the cloud being leveraged to deliver unique digital experiences to millions of fans around the world by the United States Tennis Association
+  * Blockchain on the cloud helping farmers reduce waste by building traceability and transparency in the food supply chain
+  * The use of data analytics for driving predictive maintenance solutions for a city’s infrastructure by KONE
