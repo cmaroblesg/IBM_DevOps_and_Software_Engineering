@@ -18,4 +18,4 @@ Upon completion of any of the above programs, in addition to earning a Specializ
 ### [Week 2 Python Data Structures](./Week2/README.md)
 ### [Week 3 Python Programming Fundamentals](./Week3/README.md)
 ### [Week 4 Working with Data in Python](./Week4/README.md)
-### [Week 5 Analyzing US Economic Data and Building a Dashboard]((./Week5/README.md))
+### [Week 5 Analyzing US Economic Data and Building a Dashboard](./Week5/README.md)
