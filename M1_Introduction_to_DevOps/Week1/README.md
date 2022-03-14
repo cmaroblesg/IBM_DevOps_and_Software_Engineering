@@ -7,3 +7,6 @@ In this module, you will learn how business models are disrupted by innovation a
 * Define DevOps.
 * Describe the essential characteristics of DevOps.
 * Briefly summarize the history of DevOps.
+
+## Activities
+* [**Activity:** Identifying Categories in Application Evolution](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0191EN-SkillsNetwork/labs/Module_1/Evolution/index.html)
