@@ -28,4 +28,3 @@ This module is all about measurements for DevOps. You will learn the importance 
 
 ### [Week 5: Case Studies and Final Exam](./Week5/README.md)
 In these  case studies, you will read and analyze DevOps-based scenarios, apply what you learned in the Introduction to DevOps course, and answer graded quiz questions based on these scenarios.
-2 readings
