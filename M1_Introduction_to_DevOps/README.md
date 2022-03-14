@@ -23,7 +23,7 @@ This module is all about working using DevOps principles and techniques. You wil
 ### [Week 4: Organizing for DevOps](./Week4/README.md)
 This module is all about organizing for DevOps. You will learn about the organizational impact of DevOps, how DevOps teams are structured, and the importance of everyone being responsible for success. You will discover the optimal organization for DevOps teams. You will review a variety of perspectives on DevOps and explore misconceptions about DevOps. This module addresses the importance of consequences, that is, allowing teams to feel the consequences of their actions on others who are involved in the work. You will see how a shared mindset empowers everyone to deliver customer value.
 
-### [Week4: Measuring DevOps](./Week4/README.md)
+### [Week 4: Measuring DevOps](./Week4/README.md)
 This module is all about measurements for DevOps. You will learn the importance of measuring what matters, such as social metrics and continuous improvement goals. You will see how measuring social metrics leads to improved teamwork and how measuring DevOps metrics allows you to see progress toward your goals. You will discover that actionable metrics help you take action toward your desired outcome. One of the key aspects of DevOps is creating a blameless culture. Measuring culture is critical for building a culture in which ideas flow openly and people are listened to. You will learn how that type of working culture can be created. You will see the disadvantages of rewarding one behavior while hoping for a different behavior.
 
 ### [Week 5: Case Studies and Final Exam](./Week5/README.md)
