@@ -12,7 +12,7 @@ In this module, you will learn how business models are disrupted by innovation a
 * [**Activity:** Identifying Categories in Application Evolution](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0191EN-SkillsNetwork/labs/Module_1/Evolution/index.html)
 
 ## Summary and Highlights
-* Congratulations! You have completed this lesson. At this point in the course, you know:
+Congratulations! You have completed this lesson. At this point in the course, you know:
 * Technology is the enabler of innovation, rather than the driver of innovation. You must have an innovative business idea to leverage technology.
 * In 2009, John Allspaw described an innovative approach to managing development and operations that enabled Flickr to complete over ten deploys per day, when many companies were completing fewer than one deploy every six months. This was a key moment in the growth of DevOps.
 * DevOps is the practice of development and operation engineers working together during the entire development lifecycle, following Lean and Agile principles that allow them to deliver software in a rapid and continuous manner.
