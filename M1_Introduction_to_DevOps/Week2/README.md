@@ -10,3 +10,6 @@ This module is all about thinking DevOps and getting results! You will learn how
 * Describe behavior driven development
 * Describe key advantages of using cloud native microservices
 * Describe how designing for failure benefits the development process
+
+## Activities
+* [Activity: Writing in Gherkin Syntax](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CS0191EN-SkillsNetwork/labs/Module_2/Gherkin_Syntax/index.html)
