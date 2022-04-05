@@ -13,4 +13,4 @@ In this module, you will be introduced to the philosophy and characteristics of 
 In this module, you will learn more details about Agile iterative planning. You will also learn how to create good user stories, estimate and assign story points, build and refine a product backlog, and build a sprint plan.
 ### [Week 3: Daily Execution](./Week3/README.md)
 This module describes the daily workflow for executing a sprint plan, including how to determine which story to work on and how to keep the team updated on progress. You will learn what a daily stand-up is and how to run one. You’ll learn how to use burndown charts to forecast the team’s ability to achieve the sprint goal. You’ll learn how to conduct the sprint review and the sprint retrospective. And you’ll find out how to measure success and use actionable metrics to improve the team’s performance.
-### [Week 4: /[Optional/] HONORS Project - Create an Agile Plan with ZenHub](./Week4/README.md)
+### [Week 4: \[Optional\] HONORS Project - Create an Agile Plan with ZenHub](./Week4/README.md)
