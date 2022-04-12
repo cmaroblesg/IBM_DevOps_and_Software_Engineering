@@ -26,14 +26,14 @@ Linux is one of the most popular operating systems with a large user-base of dev
 
 In this module, you will learn about the history of Linux, its various distributions and the standard architecture that they all use, and how you can use the Linux terminal and shell to interact with your Linux system. You will also learn how to create and edit text files and explore how to update and install software on your system.
 
-## [**Week 2:** Introduction to Linux Commands](./Week2/README.md)
+### [**Week 2:** Introduction to Linux Commands](./Week2/README.md)
 In this module, you will learn about the characteristics of Linux commands. You will explore the different Linux commands and their outputs such as informational commands, file and directory navigation and management commands, file archiving and compression commands, and finally networking commands.
 
-## [**Week 3:** Introduction to Shell Scripting](./Week3/README.md)
+### [**Week 3:** Introduction to Shell Scripting](./Week3/README.md)
 A shell is a powerful user interface for Unix-like operating systems. It can interpret commands and run other programs. It also enables access to files, utilities, and applications, and is an interactive scripting language. Additionally, you can use a shell to automate tasks. Linux shell commands are used for navigating and working with files and directories. You can also use them for file compression and archiving.
 
 In this module, you will learn about the characteristics of shell scripting. You will explore the different Linux commands and their outputs, Bash scripting, and how to schedule jobs using crontab. You will learn how to work with filters, pipes, and variables.
 
-## [**Week 4:** Final Project and Final Exam](./Week4/README.md)
+### [**Week 4:** Final Project and Final Exam](./Week4/README.md)
 In this final module, you will work on your Linux Commands and Shell Scripting final assignment. You will consolidate the skills that you learned throughout this course by applying them to a specific scenario. To complete the project successfully, you must demonstrate that you are equipped with the essentials of Linux and shell scripting. You will also complete the final exam to validate your understanding of the subjects you learned during the course.
 Graded: Final Exam
