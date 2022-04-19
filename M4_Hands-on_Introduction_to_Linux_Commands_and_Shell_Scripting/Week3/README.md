@@ -18,3 +18,4 @@ A shell is a powerful user interface for Unix-like operating systems. It can int
 ## Laboratories
 * [**Hands-on Lab 4:** Getting Started with Shell Scripting](./files/Getting_Started_with_Shell_Scripting.pdf)
 * [**Hands-on Lab 5:** Bash Scripting Advanced](./files/Bash_Scripting_Advanced.pdf)
+* [**Hands-on Lab 6:** Scheduling Jobs Using Crontab](./files/Scheduling_Jobs_Using_Crontab.pdf)
