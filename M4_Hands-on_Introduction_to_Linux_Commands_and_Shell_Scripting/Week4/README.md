@@ -8,4 +8,4 @@ In this final module, you will work on your Linux Commands and Shell Scripting f
 * Evaluate your peers’ Shell scripts and output using the provided rubric and grading scheme.
 
 ## Readings
-* [Linux Commands and Shell Scripting - Final Project](./files/Final_Projct.pdf)
+* [Linux Commands and Shell Scripting - Final Project](./files/Final_Project.pdf)
