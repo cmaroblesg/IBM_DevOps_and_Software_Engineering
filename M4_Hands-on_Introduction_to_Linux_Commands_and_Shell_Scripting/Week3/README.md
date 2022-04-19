@@ -13,6 +13,7 @@ A shell is a powerful user interface for Unix-like operating systems. It can int
 * Execute commands in concurrent mode.
 
 ## Readings
+* [Examples of pipes](./files/pipes.pdf)
 
 ## Laboratories
 * [**Hands-on Lab 4:** Getting Started with Shell Scripting](./files/Getting_Started_with_Shell_Scripting.pdf)
