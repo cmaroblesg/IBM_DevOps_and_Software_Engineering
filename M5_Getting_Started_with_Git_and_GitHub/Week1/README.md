@@ -9,4 +9,4 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 * Create a GitHub account and repository.
 * Add/edit files in your repo, and commit changes using the GitHub web interface.
 
-## [Course Introduction](./Week1/Course_Introduction.md)
+## [Course Introduction](./Course_Introduction.md)
