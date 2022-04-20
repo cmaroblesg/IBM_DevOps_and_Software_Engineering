@@ -1,5 +1,5 @@
 # [Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud/home/info)
-
+### by IBM
 ## About this Course
 This course introduces you to the core concepts of cloud computing. You gain the foundational knowledge required for understanding cloud computing from a business perspective as also for becoming a cloud practitioner. You understand the definition and essential characteristics of cloud computing, its history, the business case for cloud computing, and emerging technology usecases enabled by cloud. We introduce you to some of the prominent service providers of our times (e.g. AWS, Google, IBM, Microsoft, etc.) the services they offer, and look at some case studies of cloud computing across industry verticals.
 

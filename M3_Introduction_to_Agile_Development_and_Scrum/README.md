@@ -1,4 +1,5 @@
 # [Introduction to Agile Development and Scrum](https://www.coursera.org/learn/agile-development-and-scrum/home/welcome)
+### by IBM
 ## About this Course
 After successfully completing this course, you will be able to embrace the Agile concepts of adaptive planning, iterative development, and continuous improvement - resulting in early deliveries and value to customers. This course will benefit anyone who wants to get started with working the Agile way. It is particularly suitable for IT practitioners such as software developers, development managers, project managers, product managers, and executives.\
 You will learn to apply Agile practices derived from lean manufacturing concepts, like test-driven development. Learn how a scrum team functions. Learn how to write good user stories and track your team’s progress using a kanban board. Create and refine a product backlog collaboratively with the team and the customer, in a flexible and blameless culture.\
