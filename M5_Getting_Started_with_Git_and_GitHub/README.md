@@ -10,6 +10,15 @@ Developed and taught by experienced IBM practitioners, in this course you’ll g
 
 All hands-on activities in this course can be performed using web-browser based tools and interfaces. Installation of any specialized software is NOT required on your own computer in order to complete the course.
 
+## Instructor's Note
+Welcome to Getting Started with Git and GitHub! You’re joining thousands of learners currently enrolled in the course. I'm excited to have you in the class and look forward to your contributions to the learning community.
+
+To begin, I recommend taking a few minutes to explore the course site. Review the material we’ll cover each week, and preview the assignments you’ll need to complete to pass the course. Click Discussions to see forums where you can discuss the course material with fellow students taking the class.
+
+If you have questions about course content, please post them in the forums to get help from others in the course community. For technical problems with the Coursera platform, visit the Learner Help Center.
+
+Good luck as you get started, and I hope you enjoy the course!
+
 ## Syllabus
 ### [**Week 1:** Git and GitHub Fundamentals]
 Application developers rarely work alone. Large web/cloud/mobile development and data science projects will include many people – front-end developers, back-end developers, database administrators, repository administrators, and others. Every change by every contributor must be tracked and controlled to enable collaboration, accountability and version management. This type of distributed version control is extremely important when managing both small and large software projects. In this module you will learn about some of the popular version control tools, create a GitHub account and use the GitHub web interface to create a repository, add a file to it and commit your changes.
