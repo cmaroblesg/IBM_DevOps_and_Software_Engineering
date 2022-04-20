@@ -10,3 +10,9 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 * Add/edit files in your repo, and commit changes using the GitHub web interface.
 
 ## [Course Introduction](./Course_Introduction.md)
+## Resources:
+* [GitHub Docs](https://try.github.io/)
+
+## Laboratories
+
+## Readings
