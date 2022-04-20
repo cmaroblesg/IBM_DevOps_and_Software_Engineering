@@ -9,3 +9,7 @@ In this final module, you will work on your Linux Commands and Shell Scripting f
 
 ## Readings
 * [Linux Commands and Shell Scripting - Final Project](./files/Final_Project.pdf)
+
+## Final Project
+* [**Hands-on Labs:** Final Project](./files/Final_Project.pdf)
+* [**Backup**](./solution/backup.sh)
