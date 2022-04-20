@@ -8,3 +8,5 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 * Describe basic git concepts and the purpose of repositories.
 * Create a GitHub account and repository.
 * Add/edit files in your repo, and commit changes using the GitHub web interface.
+
+## [Course Introduction](./Week1/Course_Introduction.md)
