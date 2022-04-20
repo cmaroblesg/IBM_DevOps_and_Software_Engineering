@@ -14,5 +14,6 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 * [GitHub Docs](https://try.github.io/)
 
 ## Laboratories
+* [**Hands-on Lab 1:** Getting started with GitHub](./files/GitHub_Getting_Started.pdf)
 
 ## Readings
