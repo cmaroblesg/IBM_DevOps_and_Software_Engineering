@@ -26,5 +26,5 @@ Application developers rarely work alone. Large web/cloud/mobile development and
 ### [**Week 2:** Using Git Commands and Managing GitHub Projects]
 Branches are the heart of workflows in Git-based version control systems like GitHub. In this module you will become familiar with creating and using branches, and merging your changes to the main branch with Pull Requests. As you start working with GitHub repositories and automating workflows, using the web interface can be limiting and more time-consuming. This is where Git commands come in. You can use from your own desktop or a Cloud IDE - wherever you develop your code. In this module you will also become familiar with and utilize various Git commands to clone and fork repositories, as well as commit, push and pull your changes using the command line.
 
-## [**Week 3:** Final Project]
+### [**Week 3:** Final Project]
 Now that you are familiar working with GitHub repositories, Branches, and Git commands, in this final project you will apply your knowledge and skills to create a GitHub Project, add few files to it such as an open-source license, and share it publicly.
