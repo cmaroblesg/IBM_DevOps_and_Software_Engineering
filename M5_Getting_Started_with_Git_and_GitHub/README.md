@@ -1,4 +1,4 @@
-# [Getting Started with Git and GitHub]()
+# [Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/home/welcome)
 ### by IBM
 
 ## About this Course
