@@ -23,7 +23,7 @@ Good luck as you get started, and I hope you enjoy the course!
 ### [**Week 1:** Git and GitHub Fundamentals](./Week1/README.md)
 Application developers rarely work alone. Large web/cloud/mobile development and data science projects will include many people – front-end developers, back-end developers, database administrators, repository administrators, and others. Every change by every contributor must be tracked and controlled to enable collaboration, accountability and version management. This type of distributed version control is extremely important when managing both small and large software projects. In this module you will learn about some of the popular version control tools, create a GitHub account and use the GitHub web interface to create a repository, add a file to it and commit your changes.
 
-### [**Week 2:** Using Git Commands and Managing GitHub Projects]
+### [**Week 2:** Using Git Commands and Managing GitHub Projects](./Week2/README.md)
 Branches are the heart of workflows in Git-based version control systems like GitHub. In this module you will become familiar with creating and using branches, and merging your changes to the main branch with Pull Requests. As you start working with GitHub repositories and automating workflows, using the web interface can be limiting and more time-consuming. This is where Git commands come in. You can use from your own desktop or a Cloud IDE - wherever you develop your code. In this module you will also become familiar with and utilize various Git commands to clone and fork repositories, as well as commit, push and pull your changes using the command line.
 
 ### [**Week 3:** Final Project]
