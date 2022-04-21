@@ -19,7 +19,7 @@ Now that you are familiar working with GitHub repositories, Branches, and Git co
 * [Part 2 - Git CLI](./files/3-final-project-cli-lab.pdf)
 
 ## Solution
-* [Solution to the final project](./file/Solution.md)
+* [Solution to the final project](./Solution/Solution.md)
 * [Part 1](https://github.com/cmaroblesg/github-final-project)
 * [Part 2](https://github.com/cmaroblesg/jbbmo-Introduction-to-Git-and-GitHub)
 * [Members](https://github.com/ibm-developer-skills-network/jbbmo-Introduction-to-Git-and-GitHub/network/members)
