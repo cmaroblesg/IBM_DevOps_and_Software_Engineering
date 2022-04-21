@@ -13,3 +13,4 @@ Branches are the heart of workflows in Git-based version control systems like Gi
 
 ## Laboratories
 * [**Hands-on Lab 2:** Create and merge a branch in your GitHub repository](./files/GitHub2_Branch_Merge.pdf)
+* [**Hands-on Lab 3:** Getting started with branches using git commands on a local repository](./files/GitHubTest01_Getting_Started)
