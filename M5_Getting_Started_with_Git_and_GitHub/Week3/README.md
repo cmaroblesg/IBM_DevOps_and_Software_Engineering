@@ -15,7 +15,7 @@ Now that you are familiar working with GitHub repositories, Branches, and Git co
 
 ## Readings
 * [**Getting Started with Git and GitHub Project:** Project Overview and Grading Criteria](./files/1-final-project-overview-instructional.pdf)
-* [Part 1 - GitHub UI](.files/2-final-project-ui-instructional.pdf)
+* [Part 1 - GitHub UI](./files/2-final-project-ui-instructional.pdf)
 * [Part 2 - Git CLI](./files/3-final-project-cli-lab.pdf)
 
 ## Solution
