@@ -13,3 +13,6 @@
 
 ## Laboratories
 * [**Hands-on Lab 5:** Python Web Application Creation and Deployment](./files/Peer_Review_Assignment.pdf)
+
+## Solution
+* [Final project: Translator](https://github.com/cmaroblesg/xzceb-flask_eng_fr.git)
