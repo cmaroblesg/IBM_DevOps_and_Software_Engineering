@@ -9,10 +9,10 @@ Begin with an understanding of how serverless benefits developers, learn when to
 Hands-on labs reinforce serverless programming concepts for creation, deployment, and invocation of cloud-based functions—including the deployment of microservices using OpenShift and Istio. Complete the course with the confidence to build a multi-tier web app that uses IBM Cloud Functions, OpenShift, Istio, and more.
 
 ## Syllabus
-### [**Week 1: **Introduction to MicroServices](./Week1/README.md)
+### [**Week 1:** Introduction to MicroServices](./Week1/README.md)
 Do you want to learn how to develop applications that incorporate recognized and recommended development practices? Are you ready to learn more about microservices, how microservices compare to service oriented architecture, and recommended microservices patterns? In this module, you’ll begin by learning 12 Factors Application Methodology. Next learn about microservices and their benefits and drawbacks. You’ll extend your microservices knowledge when you learn about microservices patterns and anti-patterns.
 
-### [**Week 2: **Introduction to Serverless](./Week2/README.md)
+### [**Week 2:** Introduction to Serverless](./Week2/README.md)
 Serverless, microservices, and functions are terms that often mistakenly spoken of interchangeably. For effective Cloud DevOps, you need knowledge about how each of these capabilities fit into cloud environments and the cloud application development process. Learn what serverless is. First explore how microservices differs from serverless. Next, take a deeper dive into the application time when you learn about Function as a Service (FaaS) and discover how FaaS compares to other cloud capabilities. Finally, expand your functions knowledge when you explore IBM Cloud Functions.
 
 ### [**Week 3:** ORM: MicroServices w/ Serverless](./Week3/README.md)
