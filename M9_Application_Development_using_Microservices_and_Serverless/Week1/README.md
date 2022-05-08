@@ -11,3 +11,6 @@ Do you want to learn how to develop applications that incorporate recognized and
 
 ## Readings
 * [Welcome to Application Development using Microservices and Serverless](./files/Welcome.md)
+
+## Laboratories
+* [**Hands-on Lab 1:** Modernize JPetStore with Microservices](./files/Hands-On_Lab1_Modernize_JPetStore_with_Microservices.pdf)
