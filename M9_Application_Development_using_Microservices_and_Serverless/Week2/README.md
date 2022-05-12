@@ -25,4 +25,4 @@ Congratulations! You have completed this module. At this point in the course, yo
 * IBM Cloud Functions is a FaaS service available on IBM Cloud. Within IBM Cloud, namespaces are the overarching entity where other Cloud Functions entities are stored. Packages let you integrate applications with capabilities from external services. Events are channeled through triggers, and rules associate those triggers with the actions that should occur.
 
 ## Laboratories
-* [**Hans-on Lab1:** Exploring IBM Cloud Functions](./files/Exploring_IBM_Cloud_Functions.pdf)
+* [**Hans-on Lab 2:** Exploring IBM Cloud Functions](./files/Exploring_IBM_Cloud_Functions.pdf)
