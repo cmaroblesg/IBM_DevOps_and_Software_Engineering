@@ -21,4 +21,4 @@ Congratulations! You have completed this module. At this point in the course, yo
 * You can use the API Gateway to perform robust API management on your behalf, such as routing and rate limiting.
 
 ## Laboratories:
-* [**Hands-on Lab 2:**Creating IBM Cloud Functions Entities](./files/Creating_IBM_Cloud_Functions_Entities.pdf)
+* [**Hands-on Lab 2:** Creating IBM Cloud Functions Entities](./files/Creating_IBM_Cloud_Functions_Entities.pdf)
