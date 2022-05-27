@@ -23,3 +23,4 @@ Below is the architecture for one version which uses object storage to host the 
 
 ## Final Project
 * [Serverless Web Application and API](./files/coding-labs.pdf)
+* [https://cmarg-guestbook.s3-web.us-south.cloud-object-storage.appdomain.cloud/](https://cmarg-guestbook.s3-web.us-south.cloud-object-storage.appdomain.cloud/)
