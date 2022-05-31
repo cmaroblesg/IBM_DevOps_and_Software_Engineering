@@ -29,7 +29,7 @@ Congratulations! You have completed this module. At this point in the course, yo
 
 ## Codes:
 ```python
-**Code 01:**
+# Code 01: compute triangle's area
 def area_of_a_triangle(base, height):
   return (base/2)*height
 
