@@ -28,7 +28,7 @@ Congratulations! You have completed this module. At this point in the course, yo
 * Test cases help developers identify and fix parts of their code that can break.
 
 ## Codes:
-'''python area of triangle
+```python area of triangle
 {
     def area_of_a_triangle(base, height):
       return (base/2)*height
@@ -44,4 +44,4 @@ Congratulations! You have completed this module. At this point in the course, yo
       print(f"The area of a triangle {data}"\
             f" is: {area_of_a_triangle(*data)}")
 }
-'''
+```
