@@ -29,7 +29,6 @@ Congratulations! You have completed this module. At this point in the course, yo
 
 ## Codes:
 ```python
-{
     def area_of_a_triangle(base, height):
       return (base/2)*height
 
@@ -43,5 +42,4 @@ Congratulations! You have completed this module. At this point in the course, yo
     for data in test_data:
       print(f"The area of a triangle {data}"\
             f" is: {area_of_a_triangle(*data)}")
-}
 ```
