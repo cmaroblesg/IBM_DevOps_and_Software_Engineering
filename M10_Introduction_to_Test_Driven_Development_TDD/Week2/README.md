@@ -46,4 +46,4 @@ Congratulations! You have completed this module. At this point in the course, yo
 * [**Hands-on Lab 2:** Writing tests assertions](./files/lab2_writing_test_assertions.pdf)
 * [**Hands-on Lab 3:** Test fixtures](./files/lab3_test_fixtures.pdf)
 
-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
+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
