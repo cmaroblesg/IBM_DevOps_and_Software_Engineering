@@ -43,4 +43,6 @@ Congratulations! You have completed this module. At this point in the course, yo
 
 ## Laboratories
 * [**Hands-on Lab 1:** Running test with nose](./files/lab1_running_test_with_nose.pdf)
+* [**Hands-on Lab 2:** Writing tests assertions](./files/lab2_writing_test_assertions.pdf)
+
 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
