@@ -31,3 +31,4 @@ Congratulations! You have completed this module. At this point in the course, yo
 ## Laboratories
 * [**Hands-on Lab 4:** Test Coverage](./files/lab4_test_coverage.pdf)
 * [**Hands-on Lab 5:** Factories and Fakes](./files/lab5_factories_and_fakes.pdf)
+* [**Hands-on Lab 6:** Mocking Projects](./files/lab6_mocking_objects.pdf)
